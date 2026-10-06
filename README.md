@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am a Computer Science student at **FAST NUCES, Islamabad (Class of 2028)**. I like building software, games and AI projects, and I enjoy organizing tech events with my university community. Click on the sections below to know more about me.
+I am a Computer Science student at **FAST NUCES, Islamabad (2024-28)**. I like building software, games and AI projects, and I enjoy organizing tech events with my university community. Click on the sections below to know more about me.
 
 <details>
 <summary><b>🎓 What am I studying?</b></summary>

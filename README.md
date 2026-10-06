@@ -40,13 +40,6 @@ I finished the Machine Learning Specialization by DeepLearning.AI and I am now l
 
 </details>
 
-<details>
-<summary><b>🎯 What am I looking for?</b></summary>
-<br>
-
-I am applying for the **Events Lead** position at GDGoC FAST Islamabad (2026-2027). I am also open to learning opportunities, internships and tech collaborations.
-
-</details>
 
 <details>
 <summary><b>⚡ Fun facts</b></summary>
